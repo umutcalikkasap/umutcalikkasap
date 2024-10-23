@@ -40,6 +40,10 @@
 ⭐ GitHub profilime göz atın ve projelerime katkıda bulunun! Geri bildirimlerinizi her zaman bekliyorum!
 
 
+-------------------------------------------------------------------------------------------
+
+
+
 **English**
 
 # 👋 Hello, I'm Umut!
