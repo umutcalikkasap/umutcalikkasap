@@ -33,11 +33,7 @@
 - LinkedIn: www.linkedin.com/in/umutcalikkasap-ai
 - Email: calikkasap21@itu.edu.tr
 
-⚡ **Eğlenceli Bilgi:** Su sporları ve yelkenciliğe yeni başladım!
-
----
-
-⭐ GitHub profilime göz atın ve projelerime katkıda bulunun! Geri bildirimlerinizi her zaman bekliyorum!
+![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umut-tal&show_icons=true&theme=radical)
 
 
 -------------------------------------------------------------------------------------------
