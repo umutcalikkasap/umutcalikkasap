@@ -33,7 +33,7 @@
 - LinkedIn: www.linkedin.com/in/umutcalikkasap-ai
 - Email: calikkasap21@itu.edu.tr
 
-![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umut-tal&show_icons=true&theme=radical)
+![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutcalikkasap&show_icons=true&theme=radical)
 
 
 -------------------------------------------------------------------------------------------
@@ -74,10 +74,10 @@ I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Is
 - LinkedIn: www.linkedin.com/in/umutcalikkasap-ai
 - Email: calikkasap21@itu.edu.tr
 
-⚡ **Fun Fact:** I recently started learning sailing and enjoy water sports!
-
 ---
 
 ⭐ Check out my GitHub profile and feel free to contribute to my projects! I’m always open to feedback!
+
+![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutcalikkasap&show_icons=true&theme=radical)
 
 
