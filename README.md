@@ -2,7 +2,7 @@
 
 # 👋 Merhaba, ben Umut!
 
-**İstanbul Teknik Üniversitesi**'nde Yapay Zeka ve Veri Mühendisliği 3. sınıf öğrencisiyim. Yapay zeka, veri bilimi ve yazılım geliştirme alanlarında hevesli bir şekilde çalışıyorum. Ayrıca koşu, yüzme ve yelken gibi aktivitelerle de ilgileniyorum. 
+**İstanbul Teknik Üniversitesi**'nde Yapay Zeka ve Veri Mühendisliği 3. sınıf öğrencisiyim. Yapay zeka, veri bilimi ve yazılım geliştirme alanlarında hevesli bir şekilde çalışıyorum. Ayrıca koşu, yüzme, fotoğrafçılık ve yelken gibi aktivitelerle de ilgileniyorum. 
 
 🔍 **İlgi Alanlarım:**
 - Yapay Zeka ve Makine Öğrenimi
@@ -48,7 +48,7 @@
 
 # 👋 Hello, I'm Umut!
 
-I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Istanbul Technical University. I'm passionate about AI, data science, and software development. Additionally, I enjoy physical activities like running and swimming.
+I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Istanbul Technical University. I'm passionate about AI, data science, and software development. Additionally, I enjoy physical activities like running, sailing, photography and swimming.
 
 🔍 **Areas of Interest:**
 - Artificial Intelligence & Machine Learning
