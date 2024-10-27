@@ -54,7 +54,7 @@ I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Is
 - Algorithmic Trading and Forex
 
 📚 **Currently Learning:** 
-- Deep Learning (following Andrew Ng's courses)
+- Deep Learning + as an extra (following Andrew Ng's courses)
 - Data structures with C++
 - Machine learning models with Python and TensorFlow
 
@@ -70,7 +70,7 @@ I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Is
 
 🌟 **Notable Points:**
 - Actively involved in various projects related to data science and artificial intelligence.
-- I frequently share my learning and development projects on GitHub.
+- I will start share my learning and development projects on GitHub frequently.
 
 📫 **How to Reach Me:**
 - LinkedIn: www.linkedin.com/in/umutcalikkasap-ai
