@@ -12,13 +12,14 @@
 - Algoritmik Ticaret ve Forex
 
 📚 **Şu anda öğrendiğim:** 
-- Deep Learning (Andrew Ng'nin dersleri üzerinden)
+- Deep Learning
 - C++ ile veri yapıları
 - Python ve TensorFlow ile makine öğrenimi modelleri
 
-🚀 **Proje Bağlantıları:**
-- [Optimization Project](https://github.com/umut-tal/optimizationProject) - C++ ve Python kullanarak yapılan optimizasyon algoritmaları üzerine bir çalışma.
-- [Deep Learning Project](https://github.com/umut-tal/deep-learning) - Yapay sinir ağları ve derin öğrenme modelleri üzerine bir proje.
+🚀 **Projeler :**
+-  C++ ve Python kullanarak yapılan optimizasyon algoritmaları üzerine bir çalışma.
+-  Yapay sinir ağları ve derin öğrenme modelleri üzerine bir proje.
+-  Data Mining Algoritmalarını kullanarak üzerine yoğunlaştığım ve Kaggle üzerinde de çalıştığımız bir projemiz var.
 
 💻 **Teknolojiler:**
 - **Programlama Dilleri:** Python, C++, JavaScript, HTML, Css
@@ -58,8 +59,9 @@ I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Is
 - Machine learning models with Python and TensorFlow
 
 🚀 **Project Highlights:**
-- [Optimization Project](https://github.com/umut-tal/optimizationProject) - A project focusing on optimization algorithms using C++ and Python.
-- [Deep Learning Project](https://github.com/umut-tal/deep-learning) - A project focused on artificial neural networks and deep learning models.
+- A project focusing on optimization algorithms using C++ and Python.
+- A project focused on artificial neural networks and deep learning models.
+- A project taht I’m focusing on data mining algorithms, and we have a project on Kaggle that we're working on.
 
 💻 **Technologies I Work With:**
 - **Programming Languages:** Python, C++, JavaScript
