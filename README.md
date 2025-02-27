@@ -4,16 +4,16 @@
 
 **İstanbul Teknik Üniversitesi**'nde Yapay Zeka ve Veri Mühendisliği 3. sınıf öğrencisiyim. Yapay zeka, veri bilimi ve yazılım geliştirme alanlarında hevesli bir şekilde çalışıyorum. Ayrıca koşu, yüzme, fotoğrafçılık ve yelken gibi aktivitelerle de ilgileniyorum. 
 
-🔍 **İlgi Alanlarım:**
+🔍 **Bu Dönem İlgi Alanlarım:**
 - Yapay Zeka ve Makine Öğrenimi
 - Derin Öğrenme
 - Büyük Veri Analitiği
-- Veri Yapıları ve Algoritmalar
-- Algoritmik Ticaret ve Forex
+- Object Oriented Programming
+- Natural Language Processing
 
 📚 **Şu anda öğrendiğim:** 
 - Deep Learning
-- C++ ile veri yapıları
+- C++ ile OOP
 - Python ve TensorFlow ile makine öğrenimi modelleri
 
 🚀 **Projeler :**
@@ -22,7 +22,7 @@
 -  Data Mining Algoritmalarını kullanarak üzerine yoğunlaştığım ve Kaggle üzerinde de çalıştığımız bir projemiz var.
 
 💻 **Teknolojiler:**
-- **Programlama Dilleri:** Python, C++, JavaScript, HTML, Css
+- **Programlama Dilleri:** Python, C++
 - **Araçlar ve Çerçeveler:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn
 - **Veritabanları:** MySQL
 
@@ -31,8 +31,8 @@
 - GitHub'da öğrendiğim ve geliştirdiğim projeleri paylaşıyorum.
 
 📫 **Bana Ulaşın:**
-- LinkedIn: www.linkedin.com/in/umutcalikkasap-ai
-- Email: calikkasap21@itu.edu.tr
+- LinkedIn: www.linkedin.com/in/umutcalikkasap
+- Email: umutcalikkasap@hotmail.com
 
 ![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutcalikkasap&show_icons=true&theme=radical)
 
@@ -64,7 +64,7 @@ I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Is
 - A project taht I’m focusing on data mining algorithms, and we have a project on Kaggle that we're working on.
 
 💻 **Technologies I Work With:**
-- **Programming Languages:** Python, C++, JavaScript
+- **Programming Languages:** Python, C++
 - **Tools & Frameworks:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn
 - **Databases:** MySQL
 
@@ -73,8 +73,8 @@ I'm a **3rd-year student in Artificial Intelligence and Data Engineering** at Is
 - I will start share my learning and development projects on GitHub frequently.
 
 📫 **How to Reach Me:**
-- LinkedIn: www.linkedin.com/in/umutcalikkasap-ai
-- Email: calikkasap21@itu.edu.tr
+- LinkedIn: www.linkedin.com/in/umutcalikkasap
+- Email: umutcalikkasap@hotmail.com
 
 ---
 
